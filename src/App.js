@@ -30,7 +30,7 @@ function App() {
           <div class="topnav" id="myTopnav">
             <a
               rel="noreferrer"
-              href="https://lgmvip-sept-task2.netlify.app"
+           
               target="_blank"
               class="active"
             >
