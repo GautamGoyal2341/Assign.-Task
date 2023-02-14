@@ -7,4 +7,4 @@ Using Google fonts<br />
 There are different CSS file for Cards and footer<br />
 Using the function HandelClick to fetch the API<br />
 
-![Alt text](https://ibb.co/wJFTGbW "Optional title")
+![Alt text](https://ibb.co/wJFTGbW)
