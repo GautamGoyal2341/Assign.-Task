@@ -7,4 +7,3 @@ Using Google fonts<br />
 There are different CSS file for Cards and footer<br />
 Using the function HandelClick to fetch the API<br />
 
-![image](https://ibb.co/wJFTGbW)
